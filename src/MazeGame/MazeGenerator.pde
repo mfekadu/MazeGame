@@ -1,9 +1,6 @@
 import java.util.*;
 /**
- * Write a description of class MazeGenerator here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Class MazeGenerator - builds the Maze cells and walls.
  */
 public class MazeGenerator
 {

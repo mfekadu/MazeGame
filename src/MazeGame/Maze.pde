@@ -7,7 +7,7 @@ import java.util.*;
  * @version Project 3
  * @version CPE102-01
  * @version Fall 2015
- * @version 1.0.1
+ * @version 1.0.2
  * 
  * <br>Revisions:
  *    <br>1.0.2 fixed lookAround to check directions correctly and removed code which would prevent setInView(true)

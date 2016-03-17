@@ -69,10 +69,7 @@ void keyPressed()
 }
 
 /**
- * Class GameGUI - write a description of the class here
- * 
- * @author (your name) 
- * @version (a version number)
+ * Class GameGUI - the user interface for MazeGame.
  */
 public class GameGUI 
 {
